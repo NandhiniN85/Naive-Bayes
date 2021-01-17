@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Class
+Rainy,Hot,5,92,No
+Rainy,Hot,6,56,Yes
+Overcast,Hot,10,67,Yes
+Sunny,Mild,50,88,No
+Sunny,Cool,21,34,Yes
+Sunny,Cool,30,21,No
+Overcast,Cool,42,75,Yes
+Rainy,Mild,67,45,No
+Rainy,Cool,35,65,Yes
+Sunny,Mild,30,71,Yes
+Rainy,Mild,25,23,Yes
+Overcast,Mild,79,54,Yes
+Overcast,Hot,45,33,Yes
+Sunny,Mild,81,67,No
